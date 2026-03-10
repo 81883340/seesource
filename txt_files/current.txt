@@ -1,3 +1,5 @@
+genre#
+
 
 中国广电, #genre#
 CCTV13, http://lnitv.cn/CBN.php?id=30013

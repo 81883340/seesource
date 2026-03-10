@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/81883340/seesource/main/txt_files/current.txt
 ```
 
 ## 📊 当前状态
-- 最后更新: 2026-03-10 20:10:21
+- 最后更新: 2026-03-10 20:22:21
 - 分组数量: 8
 - 频道数量: 1848
 - M3U大小: 312326 字节
-- TXT大小: 189547 字节
+- TXT大小: 189555 字节
 
 ## 📝 TXT格式示例
 ```
